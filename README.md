@@ -1,8 +1,8 @@
 # VFF Avoidance Navigation Algorithm
 
 Authors:
-Gregory Sarrouf
-Jacques Dergham
+Gregory Sarrouf,
+Jacques Dergham,
 Alexa Fahel
 
 ## Running The Project
